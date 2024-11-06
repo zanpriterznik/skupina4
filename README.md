@@ -10,57 +10,57 @@ Naloga bo raziskala, kaj vse obsega pravilna priprava dokumentacije, kako strukt
 
 Pravilna priprava dokumentacije ima širok pomen v številnih organizacijskih okoljih. Dobra dokumentacija omogoča:
 
-    sledljivost informacij,
-    strukturno urejenost podatkov,
-    lažje odločanje na podlagi zanesljivih podatkov.
+    -sledljivost informacij,
+    -strukturno urejenost podatkov,
+    -lažje odločanje na podlagi zanesljivih podatkov.
 
 V poslovnem kontekstu pravilno pripravljena dokumentacija omogoča učinkovito komunikacijo med oddelki, olajša dostop do pomembnih podatkov ter omogoča boljše spremljanje razvoja projektov. V akademskem okolju pravilno pripravljeni dokumenti in poročila prispevajo k razumljivemu predstavljanju raziskav, ugotovitev in rezultatov.[1]
 ## KLJUČNE SESTAVINE DOBRE DOKUMENTACIJE
 
 Priprava dokumentacije zahteva upoštevanje nekaterih ključnih sestavin, ki pripomorejo k jasnosti in natančnosti. Med pomembnejše sestavine spadajo:
 
-    Naslov in povzetek: jasen naslov, ki odraža vsebino, ter povzetek, ki poda ključne informacije,
-    Uvod in namen: uvod, ki pojasni ozadje ter namen dokumenta,
-    Metodologija in pristop: opis uporabljenih metod in raziskovalnih postopkov,
-    Rezultati in analiza: podrobno prikazani rezultati ter analiza, ki razlaga pomen teh rezultatov.
+    -Naslov in povzetek: jasen naslov, ki odraža vsebino, ter povzetek, ki poda ključne informacije,
+    -Uvod in namen: uvod, ki pojasni ozadje ter namen dokumenta,
+    -Metodologija in pristop: opis uporabljenih metod in raziskovalnih postopkov,
+    -Rezultati in analiza: podrobno prikazani rezultati ter analiza, ki razlaga pomen teh rezultatov.
 
 Jasno strukturirani deli dokumentacije omogočajo bralcu lažje sledenje in boljše razumevanje predstavljene vsebine.[2]
 ## NAVODILA ZA PRIPRAVO DOKUMENTOV IN POROČIL
 
 Pri pripravi dokumentov je treba upoštevati:
 
-    Urejenost in strukturo: dokument mora biti logično strukturiran in pregledno oblikovan.
-    Jedrnatost in točnost: besedilo mora biti jedrnato, a informativno, brez nepotrebnih podatkov.
-    Upoštevanje standardov: upoštevati je treba ustrezne standarde in smernice za oblikovanje ter pisanje poročil.
-    Sprotno urejanje in pregledovanje: redno preverjanje in urejanje dokumentacije zagotavlja točnost in brezhibnost dokumentov.
+    -Urejenost in strukturo: dokument mora biti logično strukturiran in pregledno oblikovan.
+    -Jedrnatost in točnost: besedilo mora biti jedrnato, a informativno, brez nepotrebnih podatkov.
+    -Upoštevanje standardov: upoštevati je treba ustrezne standarde in smernice za oblikovanje ter pisanje poročil.
+    -Sprotno urejanje in pregledovanje: redno preverjanje in urejanje dokumentacije zagotavlja točnost in brezhibnost dokumentov.
 
 Upoštevanje teh navodil je ključno za pripravo dokumentov, ki bodo razumljivi, informativni in strokovni.[3]
 ## VRSTE DOKUMENTACIJE IN POROČIL
 
 V organizacijah in izobraževalnih ustanovah se uporabljajo različne vrste dokumentacije:
 
-    Tehnična poročila: podrobno opisujejo tehnične postopke in rezultate testiranj.
-    Raziskovalna poročila: namenjena predstavitvi raziskovalnih metod in ugotovitev.
-    Poslovna poročila: vsebujejo analizo poslovnih podatkov, statistiko in predloge za odločitve.
-    Projektna dokumentacija: zajema celoten razvoj projekta, od načrtovanja do izvedbe.
+    -Tehnična poročila: podrobno opisujejo tehnične postopke in rezultate testiranj.
+    -Raziskovalna poročila: namenjena predstavitvi raziskovalnih metod in ugotovitev.
+    -Poslovna poročila: vsebujejo analizo poslovnih podatkov, statistiko in predloge za odločitve.
+    -Projektna dokumentacija: zajema celoten razvoj projekta, od načrtovanja do izvedbe.
 
 Vsaka vrsta dokumentacije ima specifične zahteve in cilje, ki jih je treba upoštevati za doseganje želenih rezultatov.[4]
 ## ETIČNA IN PRAVNA PRAVILA PRI PRIPRAVI DOKUMENTACIJE
 
 Priprava dokumentacije zahteva tudi spoštovanje etičnih in pravnih načel. Ključni vidiki vključujejo:
 
-    Pravilno citiranje in izogibanje plagiatorstvu,
-    Spoštovanje zasebnosti in zaupnosti podatkov,
-    Natančno in resnično prikazovanje informacij.
+    -Pravilno citiranje in izogibanje plagiatorstvu,
+    -Spoštovanje zasebnosti in zaupnosti podatkov,
+    -Natančno in resnično prikazovanje informacij.
 
 Spoštovanje teh pravil pripomore k večji verodostojnosti dokumentacije in zaupanju v podane podatke.[5]
 ## PRIHODNOST DOKUMENTACIJE S PODPORO DIGITALNIH ORODIJ
 
 Z razvojem tehnologije in dostopom do naprednih digitalnih orodij se dokumentacija vse bolj digitalizira, kar omogoča:
 
-    hitrejšo pripravo in posodabljanje dokumentov,
-    enostavno shranjevanje in deljenje dokumentacije,
-    uporabo orodij za preverjanje slovnice, pravilnosti in sloga.
+    -hitrejšo pripravo in posodabljanje dokumentov,
+    -enostavno shranjevanje in deljenje dokumentacije,
+    -uporabo orodij za preverjanje slovnice, pravilnosti in sloga.
 
 Digitalna orodja omogočajo večjo učinkovitost pri pripravi dokumentacije, izboljšujejo preglednost in omogočajo hitrejše popravke ter posodobitve.[6]
 ## ZAKLJUČEK
