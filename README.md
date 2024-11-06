@@ -77,3 +77,4 @@ Pravilna priprava dokumentacije in poročil je nujna za uspešno komunikacijo v 
 
 
 
+
