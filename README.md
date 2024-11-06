@@ -66,3 +66,14 @@ Digitalna orodja omogočajo večjo učinkovitost pri pripravi dokumentacije, izb
 ## ZAKLJUČEK
 
 Pravilna priprava dokumentacije in poročil je nujna za uspešno komunikacijo v profesionalnih in akademskih okoljih. S pravilno strukturo, jasno predstavljenimi informacijami ter spoštovanjem etičnih in pravnih načel je dokumentacija zanesljivo orodje za posredovanje pomembnih informacij. Digitalizacija dodatno prispeva k izboljšanju procesa priprave dokumentov, kar omogoča lažji dostop, boljšo preglednost in enostavnejše posodabljanje.
+
+
+
+<h2>KAZALO VIROV</h2>
+
+
+
+
+
+
+
