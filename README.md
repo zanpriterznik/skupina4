@@ -1,4 +1,6 @@
-<h1 align="center">PRAVILNA PRIPRAVA DOKUMENTACIJE IN POROČIL</h1> <br>
+<h1 align="center">PRAVILNA PRIPRAVA DOKUMENTACIJE IN POROČIL</h1> 
+<br>
+
 ## UVOD
 
 Pravilna priprava dokumentacije in poročil je ključnega pomena v različnih poklicnih in študijskih okoljih, saj omogoča jasno, strukturirano in učinkovito komunikacijo. Z naraščajočo potrebo po urejeni in pregledni dokumentaciji se pojavljajo zahteve po standardizaciji in usposabljanju, ki prispevajo k izboljšanju kakovosti in točnosti pripravljenih dokumentov. Cilj te naloge je predstaviti osnove in tehnike pravilne priprave dokumentacije ter poudariti, kako je lahko pravilna dokumentacija ključna pri poslovnih in akademskih projektih.
