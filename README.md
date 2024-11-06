@@ -71,15 +71,15 @@ Pravilna priprava dokumentacije in poročil je nujna za uspešno komunikacijo v 
 
 <h2>KAZALO VIROV</h2>
 * [1]Habib, B., & Romli, R. (2021). A Systematic Mapping Study on Issues and Importance of Documentation in Agile. 2021 IEEE 12th International Conference on Software Engineering and Service Science (ICSESS), 198–202. https://doi.org/10.1109/ICSESS52187.2021.9522254
-<br>
+<br><br>
 * [2]L. Robinson, J. Segal, and M. Smith, “Effective Communication: Improving Your Interpersonal Skills,” HelpGuide.org, Nov. 03, 2018. https://www.helpguide.org/relationships/communication/effective-communication
-<br>
+<br><br>
 * [3]“Instructions for the preparation of documents | Department for General Assembly and Conference Management,” Un.org, 2024. https://www.un.org/dgacm/en/content/editorial-manual/instr-prep-docs (accessed Nov. 06, 2024).
-<br>
+<br><br>
 * [4]M. Goral, “Research Guides: Articles, Books, and . . . ? Understanding the Many Types of Information Found in Libraries: Documents and Reports,” guides.library.ucla.edu. https://guides.library.ucla.edu/content-types/documents
-<br>
+<br><br>
 * [5]“Legal guide concerning ethics issues | Editors | Elsevier,” www.elsevier.com. https://www.elsevier.com/editor/perk/legal-guide-for-editors
-<br>
+<br><br>
 * [6]Forrester, “The Future Of Documents: Content Creation Is Ripe For Its Own Digital Disruption,” Forbes, Dec. 16, 2020. Available: https://www.forbes.com/sites/forrester/2020/12/16/the-future-of-documents-content-creation-is-ripe-for-its-own-digital-disruption/
 
 
