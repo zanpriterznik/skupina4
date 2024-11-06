@@ -1,19 +1,19 @@
 <h1 align="center">PRAVILNA PRIPRAVA DOKUMENTACIJE IN POROČIL</h1> <br>
-# UVOD
+## UVOD
 
 Pravilna priprava dokumentacije in poročil je ključnega pomena v različnih poklicnih in študijskih okoljih, saj omogoča jasno, strukturirano in učinkovito komunikacijo. Z naraščajočo potrebo po urejeni in pregledni dokumentaciji se pojavljajo zahteve po standardizaciji in usposabljanju, ki prispevajo k izboljšanju kakovosti in točnosti pripravljenih dokumentov. Cilj te naloge je predstaviti osnove in tehnike pravilne priprave dokumentacije ter poudariti, kako je lahko pravilna dokumentacija ključna pri poslovnih in akademskih projektih.
 
 Naloga bo raziskala, kaj vse obsega pravilna priprava dokumentacije, kako strukturirati informacije v poročilih in katere so najboljše prakse za doseganje jasnosti, točnosti in profesionalnosti v komunikaciji.
-POMEN PRAVILNE DOKUMENTACIJE
+## POMEN PRAVILNE DOKUMENTACIJE
 
-# Pravilna priprava dokumentacije ima širok pomen v številnih organizacijskih okoljih. Dobra dokumentacija omogoča:
+Pravilna priprava dokumentacije ima širok pomen v številnih organizacijskih okoljih. Dobra dokumentacija omogoča:
 
     sledljivost informacij,
     strukturno urejenost podatkov,
     lažje odločanje na podlagi zanesljivih podatkov.
 
 V poslovnem kontekstu pravilno pripravljena dokumentacija omogoča učinkovito komunikacijo med oddelki, olajša dostop do pomembnih podatkov ter omogoča boljše spremljanje razvoja projektov. V akademskem okolju pravilno pripravljeni dokumenti in poročila prispevajo k razumljivemu predstavljanju raziskav, ugotovitev in rezultatov.
-KLJUČNE SESTAVINE DOBRE DOKUMENTACIJE
+## KLJUČNE SESTAVINE DOBRE DOKUMENTACIJE
 
 Priprava dokumentacije zahteva upoštevanje nekaterih ključnih sestavin, ki pripomorejo k jasnosti in natančnosti. Med pomembnejše sestavine spadajo:
 
@@ -23,7 +23,7 @@ Priprava dokumentacije zahteva upoštevanje nekaterih ključnih sestavin, ki pri
     Rezultati in analiza: podrobno prikazani rezultati ter analiza, ki razlaga pomen teh rezultatov.
 
 Jasno strukturirani deli dokumentacije omogočajo bralcu lažje sledenje in boljše razumevanje predstavljene vsebine.
-NAVODILA ZA PRIPRAVO DOKUMENTOV IN POROČIL
+## NAVODILA ZA PRIPRAVO DOKUMENTOV IN POROČIL
 
 Pri pripravi dokumentov je treba upoštevati:
 
@@ -33,7 +33,7 @@ Pri pripravi dokumentov je treba upoštevati:
     Sprotno urejanje in pregledovanje: redno preverjanje in urejanje dokumentacije zagotavlja točnost in brezhibnost dokumentov.
 
 Upoštevanje teh navodil je ključno za pripravo dokumentov, ki bodo razumljivi, informativni in strokovni.
-VRSTE DOKUMENTACIJE IN POROČIL
+## VRSTE DOKUMENTACIJE IN POROČIL
 
 V organizacijah in izobraževalnih ustanovah se uporabljajo različne vrste dokumentacije:
 
@@ -43,7 +43,7 @@ V organizacijah in izobraževalnih ustanovah se uporabljajo različne vrste doku
     Projektna dokumentacija: zajema celoten razvoj projekta, od načrtovanja do izvedbe.
 
 Vsaka vrsta dokumentacije ima specifične zahteve in cilje, ki jih je treba upoštevati za doseganje želenih rezultatov.
-ETIČNA IN PRAVNA PRAVILA PRI PRIPRAVI DOKUMENTACIJE
+## ETIČNA IN PRAVNA PRAVILA PRI PRIPRAVI DOKUMENTACIJE
 
 Priprava dokumentacije zahteva tudi spoštovanje etičnih in pravnih načel. Ključni vidiki vključujejo:
 
@@ -52,7 +52,7 @@ Priprava dokumentacije zahteva tudi spoštovanje etičnih in pravnih načel. Klj
     Natančno in resnično prikazovanje informacij.
 
 Spoštovanje teh pravil pripomore k večji verodostojnosti dokumentacije in zaupanju v podane podatke.
-PRIHODNOST DOKUMENTACIJE S PODPORO DIGITALNIH ORODIJ
+## PRIHODNOST DOKUMENTACIJE S PODPORO DIGITALNIH ORODIJ
 
 Z razvojem tehnologije in dostopom do naprednih digitalnih orodij se dokumentacija vse bolj digitalizira, kar omogoča:
 
